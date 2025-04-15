@@ -1,12 +1,13 @@
-# React + Vite
+# React todo list app
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This app will be used to practice working with Material UI, React, and command line Git repository update.
 
-Currently, two official plugins are available:
+These are the tools being used to create the project:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [@Material UI](https://mui.com/material-ui/getting-started/) Material UI is an open-source React component library that implements Google's Material Design. It's comprehensive and can be used in production out of the box.
+- [@React](https://react.dev/learn) uses [Vite](https://vite.dev/guide/) for scaffolding the React app.
+- [@Cursor](https://www.cursor.com/) uses the AI code editor for VIBE coding.
 
-## Expanding the ESLint configuration
+## This application is meant to practice working with React and JavaScript frameworks.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+The application will have continuous development as functionality is added.
