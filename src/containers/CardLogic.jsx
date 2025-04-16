@@ -1,10 +1,12 @@
+// Material UI
 import Box from '@mui/material/Box';
 import Card from '@mui/material/Card';
 import CardActions from '@mui/material/CardActions';
 import CardContent from '@mui/material/CardContent';
-import Button from '@mui/material/Button';
 import Typography from '@mui/material/Typography';
 
+// Components 
+import InputForm from '../components/InputForm';
 
 function CardLogic({ cardTitle, cardDescription }) {
   
@@ -19,8 +21,7 @@ function CardLogic({ cardTitle, cardDescription }) {
         </Typography>
       </CardContent>
       <CardActions>
-        <Button size="small">Add Item</Button>
-        <Button size="small">Remove Item</Button>
+        <InputForm />
       </CardActions>
     </>
   );
